@@ -1,8 +1,7 @@
-
-//	freopen("", "w", stdout);
-//	freopen("", "r", stdin);
 #include <bits/stdc++.h>
 using namespace std;
+//	freopen("", "w", stdout);
+//	freopen("", "r", stdin);
 struct read
 	{
 	string Name;
